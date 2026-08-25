@@ -4,7 +4,7 @@
 # 🌱 Automated ML for *Brassica napus* Fatty-Acid Prediction
 
 <p align="center">
-  <img src="./image.png" alt="Graphical Abstract" width="850">
+  <img src="./Figure_1.png" alt="Graphical Abstract" width="850">
 </p>
 
 <p align="center">
